@@ -11,6 +11,7 @@ namespace NieGumex.Controllers
         public ActionResult Index()
         {
             return View();
+            //komentarz
         }
 
         public ActionResult About()

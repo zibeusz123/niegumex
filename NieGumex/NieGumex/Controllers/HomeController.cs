@@ -18,6 +18,7 @@ namespace NieGumex.Controllers
             ViewBag.Message = "Your application description page.";
 
             return View();
+            //szalony loczek :O
         }
 
         public ActionResult Contact()
